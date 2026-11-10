@@ -24,7 +24,7 @@ record to its owner.
 
    ```powershell
    .\.venv\Scripts\Activate.ps1
-   pip install -r Requirements.txt
+   pip install -r requirements.txt
    streamlit run app.py
    ```
 
